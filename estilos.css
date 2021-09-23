@@ -5,3 +5,11 @@ h1{
     color:blue;
     text-align: center;
 }
+
+h2{
+    color:green;
+    border-bottom: 1px solid green;
+}
+p{
+    text-align: justify;
+}
